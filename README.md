@@ -13,3 +13,7 @@ This project is a practice exercise for learning GitHub basics.
 - Create a new branch for your feature. 
 
 - Submit a Pull Request with your changes.  
+
+## Testing new feature
+
+Now i test the branch feature on github to see how it is
